@@ -1,0 +1,7 @@
+# Whitelist-based: only track soul files, ignore everything else in ~/.claude/
+*
+!.gitignore
+!CLAUDE.md
+!COGNITION.md
+!README.md
+!README_CN.md
